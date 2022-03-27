@@ -4,7 +4,10 @@
 
 자바스크립트 인터프리터가 변수, 함수, 클래스의 선언을 코드 실행 전에 최상단으로 옮기는 것(처럼 보이는?) 과정
 
-🚧 변수 / 클래스 선언의 경우도 호이스팅이 되지만, <u>예기치 못한 에러</u>를 발생시킬 수 있음
+🚧 변수 / 클래스 선언의 경우도 호이스팅이 되지만, <u>예기치 못한 에러</u>를 발생시킬 수
+있음
+
+> 인터프리터(interpreter) : 소스코드를 바로 실행하는 컴퓨터 프로그램, 환경 <br> 원시 코드를 기계어로 번역하는 컴파일러와 대비됩니다
 
 <br/>
 <br/>
@@ -98,3 +101,5 @@ let greet = "Hello!";
 ### 3. `class` 호이스팅
 
 클래스 또한 호이스팅 됨 BUT! 디폴트 초기화 값이 없음 → `ReferenceError`
+
+> **Reference** <br> [Hoisting - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
