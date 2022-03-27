@@ -102,4 +102,7 @@ let greet = "Hello!";
 
 클래스 또한 호이스팅 됨 BUT! 디폴트 초기화 값이 없음 → `ReferenceError`
 
+<br>
+<br>
+
 > **Reference** <br> [Hoisting - MDN](https://developer.mozilla.org/en-US/docs/Glossary/Hoisting)
