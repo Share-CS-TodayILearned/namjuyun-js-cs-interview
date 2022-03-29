@@ -40,3 +40,17 @@
 <br>
 
 ## ✍️ 매일매일 로그
+
+<details><summary>2022.03.29(화)</summary>
+<p>
+  
+  - [x] MJDD Ch.1
+  - [x] MJDD Ch.2
+  - [ ] 프로그래머스 : 로또의 최고 순위와 최저 순위
+  - [ ] 프로그래머스 : 없는 숫자 더하기
+  - [ ] 면접 공부 : Scope, Scope Chaining
+  - [ ] 면접 공부 : var, let, const
+  
+</p>
+</details>
+
