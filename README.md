@@ -1,5 +1,7 @@
 # 💖 윤남주의 취업준비 레파지토리에 오신 것을 환영합니다 💖
 
+<br>
+
 <img src="https://media4.giphy.com/media/Kd9IQloZWxEEU/giphy.gif?cid=ecf05e47v05acgheg2uy3aw3lno4zbyfoa4vyigqko5t5v74&rid=giphy.gif&ct=g" width="600" />
 
 <br>
@@ -32,6 +34,9 @@
 4. 북클럽 : 아직 미정
 
 <br>
+
+<img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/36794151_1905091109783616_6953810098154110976_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=730e14&_nc_ohc=wt6d6JFFT7QAX8Eab_j&_nc_ht=scontent-ssn1-1.xx&oh=00_AT8WTfi5zR9YcnwZF4MjphSPgTF9O1L4HAN4bFvL2ear7w&oe=626696C2" width="400" />
+
 <br>
 
 ## ✍️ 매일매일 로그
