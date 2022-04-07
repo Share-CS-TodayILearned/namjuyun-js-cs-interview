@@ -31,7 +31,7 @@ _(updated 2022. 03. 29)_
 1. 모던 자바스크립트 Deep Dive 완독
 2. 프로그래머스 lv.1 전부 풀기
 3. 프론트엔드 면접질문 답변 정리하기
-4. 북클럽 : 아직 미정
+4. 북클럽 : 1일 1로그 100일 완성 IT 지식
 
 <br>
 
@@ -48,8 +48,59 @@ _(updated 2022. 03. 29)_
   - [x] MJDD Ch.2
   - [x] 프로그래머스 : 로또의 최고 순위와 최저 순위
   - [x] 프로그래머스 : 없는 숫자 더하기
-  - [ ] 면접 공부 : Scope, Scope Chaining
+  - [x] 면접 공부 : Scope, Scope Chaining
   - [ ] 면접 공부 : var, let, const
   
 </p>
 </details>
+
+<details><summary>2022.03.30(수)</summary>
+<p>
+
+  코로나 확진 이슈로 인해 정신없는 하루를 보냈습니다...🥲 (다행히 저는 아직 음성...)
+  
+</p>
+</details>
+
+<details><summary>2022.03.31(목)</summary>
+<p>
+  
+  - [ ] MJDD Ch.3
+  - [x] 프로그래머스 : 크레인 인형뽑기 게임
+  - [x] 프로그래머스 : 소수 만들기
+  - [x] 프로그래머스 : 완주하지 못한 선수
+  - [ ] 면접 공부 : var, let, const
+  - [x] 1일 1로그 읽기
+  - [ ] 이력서 작성
+  
+</p>
+</details>
+
+<details><summary>2022.04.01(금)</summary>
+<p>
+  
+  - [ ] MJDD Ch.3
+  - [ ] 면접 공부 : var, let, const
+  - [x] 1일 1로그 읽기
+  - [ ] 이력서 중간 점검 ✨
+  
+</p>
+</details>
+
+... 코로나... 격리... 리얼 사도세자...
+
+<details><summary>2022.04.07(목)</summary>
+<p>
+  
+  - [x] 위코드 3개월 회고록 작성 - [바로가기](https://velog.io/@jujusnake/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%97%AC%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%9E%EC%9C%BC%EB%A1%9C)
+  - [x] 이력서 피드백 - 수정
+  - [x] 노션 이력서 만들기 - [바로가기](https://namjuyun.notion.site/56a7a3e94fb040f983d4af621ded0cda)
+  - [ ] MJDD Ch. 3 읽고 정리
+  - [ ] 1일 1로그 : 1 ~ 3 읽고 정리
+  - [ ] 프로그래머스 : K번째수
+  - [ ] 프로그래머스 : 모의고사
+ 
+</p>
+</details>
+
+
