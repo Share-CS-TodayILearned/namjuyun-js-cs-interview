@@ -94,7 +94,7 @@ _(updated 2022. 03. 29)_
   
   - [x] 위코드 3개월 회고록 작성 - [바로가기](https://velog.io/@jujusnake/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80%EC%9D%98-%EC%97%AC%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%9E%EC%9C%BC%EB%A1%9C)
   - [x] 이력서 피드백 - 수정
-  - [ ] 노션 이력서 만들기
+  - [x] 노션 이력서 만들기 - [바로가기](https://namjuyun.notion.site/56a7a3e94fb040f983d4af621ded0cda)
   - [ ] MJDD Ch. 3 읽고 정리
   - [ ] 1일 1로그 : 1 ~ 3 읽고 정리
   - [ ] 프로그래머스 : K번째수
