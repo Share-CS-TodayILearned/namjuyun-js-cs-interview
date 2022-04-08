@@ -16,15 +16,13 @@ function solution(n, lost, reserve) {
     }
   };
 
-  const borrowedArr = original;
-
   original.forEach((ele, index) => {
     if (ele === 0) {
-      borrow(borrowedArr, index);
+      borrow(original, index);
     }
   });
 
-  return borrowedArr.filter((ele) => ele !== 0).length;
+  return original.filter((ele) => ele !== 0).length;
 }
 
-solution(5, [2, 4], [3]);
+console.log(solution(5, [2, 4], [3]));
