@@ -1,4 +1,4 @@
-// 프로그래머스 lv. 2️⃣ : [1차] 뉴스 클러스터링
+// 프로그래머스 lv. 2️⃣ : 뉴스 클러스터링
 // https://programmers.co.kr/learn/courses/30/lessons/17677
 
 function solution(str1, str2) {
