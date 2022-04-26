@@ -14,3 +14,10 @@ const items: number[] = [1, 2, 3];
 
 // TS 튜플 : 배열의 인덱스에 따른 타입까지 지정
 const address: [string, number] = ["Gangnam", 100];
+
+// TS 객체
+const obj: object = {};
+const person: { name: string; age: number } = { name: "namju", age: 29 };
+
+// TS 진위값
+const show: boolean = true;
