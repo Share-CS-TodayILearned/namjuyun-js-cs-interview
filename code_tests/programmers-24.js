@@ -10,3 +10,5 @@ function solution(s) {
     return s[half];
   }
 }
+
+console.log(solution([1, 2, 3, 7, 4, 5]));
